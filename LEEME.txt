@@ -1,0 +1,21 @@
+FLOTA CBC – Litoral Occidente
+==============================
+
+Contenido de esta carpeta (no cambies nombres ni muevas archivos):
+  index.html            La app
+  manifest.webmanifest  Nombre e ícono para instalarla
+  sw.js                 Permite abrirla con señal débil o sin internet
+  icons/                Íconos de la app
+
+PUBLICAR (Paso 2)
+1. Descomprime el .zip. Debe quedar una carpeta "flota-cbc" con estos archivos.
+2. Entra a https://app.netlify.com/drop (con tu cuenta gratis iniciada).
+3. Arrastra la carpeta "flota-cbc" completa.
+4. En "Site configuration > Change site name" ponle p. ej. flota-cbc.
+
+INSTALAR EN ANDROID (Paso 3)
+1. Abre la dirección en Chrome.
+2. Menú ⋮ > "Instalar app".
+
+ACTUALIZAR
+Netlify > tu sitio > Deploys > arrastra la carpeta nueva.
